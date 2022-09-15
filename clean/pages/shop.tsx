@@ -57,7 +57,7 @@ export default function shop({}: Props) {
 
         <h1>GGGGGG</h1>
         <h2>4444</h2>
-        <h1>HUHUHUHUUUHUHUHU</h1>
+        
 
 
 
