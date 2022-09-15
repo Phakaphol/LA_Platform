@@ -51,7 +51,7 @@ export default function index({}: Props) {
                     </Link>
                   </li>
                   <li className="nav-item ms-3">
-                    <Link href="/write">
+                    <Link href="/login">
                       <a className="nav-link">Login</a>
                     </Link>
                   </li>

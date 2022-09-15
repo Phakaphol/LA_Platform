@@ -3,6 +3,7 @@ import '../styles/globals.css'
 import type { AppProps } from 'next/app'
 import { useEffect } from "react";
 import "../styles/home_1.css";
+import "../styles/login.css";
 
 function MyApp({ Component, pageProps }: AppProps) {
 +

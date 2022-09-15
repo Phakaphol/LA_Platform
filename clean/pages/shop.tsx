@@ -55,9 +55,56 @@ export default function shop({}: Props) {
             </div>
           </Nav>
 
-        <h1>GGGGGG</h1>
-        <h2>4444</h2>
         
+          <section id="hero" style={{background:"#facfd2"}}>
+
+            <div className="container">
+              <div className="row d-flex align-items-center">
+                <div className=" col-lg-6 py-5 py-lg-0 order-2 order-lg-1" data-aos="fade-right">
+                  
+                  <h1 style={{color:"black"}}>Shop </h1>
+                  <h2 style={{color:"#1d2327"}}>ร้านค้า Project</h2>
+                  <h2></h2>
+
+                  <a href="#about" className="btn-get-started scrollto">Get Started</a>
+                </div>
+
+                <div className="col-lg-6 order-1 order-lg-2 hero-img " data-aos="fade-left">   
+                  <Image 
+                    className="img-fluid"
+                    src={"/img/shop/shop_1.png"}  
+                    width={500}
+                    height={500}
+                    layout="fixed"
+                    alt=""
+                    />
+                
+                </div>
+
+              </div>
+
+            </div>
+
+          </section>
+
+          <section id="shop" >
+
+            <div className='container'>
+              <div className='row'>
+                <div className='col-2'>
+                  
+                </div>
+                <div className='col-10'>
+
+                </div>
+
+              </div>
+
+            </div>
+
+
+          </section>
+
 
 
 
